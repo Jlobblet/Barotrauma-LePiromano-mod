@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Diff file="Content/Texts/English/EnglishVanilla.xml">
+    <replace sel="/*/*">LePiromano</replace>
+    <replace sel="/*/@language">LePiromano</replace>
+    <replace sel="/*/@translatedname">LePiromano</replace>
+    <replace sel="//*[contains(local-name(), 'orderoptions')]">LePiromano,LePiromano</replace>
+    <replace sel="//*[contains(local-name(), 'orderoptions.steer')]">LePiromano,LePiromano,LePiromano</replace>
+</Diff>

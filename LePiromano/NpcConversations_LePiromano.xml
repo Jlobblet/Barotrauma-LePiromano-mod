@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Diff file="Content/NPCConversations/English/NpcConversations_English.xml">
+    <replace sel="//@line">LePiromano</replace>
+    <replace sel="/*/@Language">LePiromano</replace>
+</Diff>

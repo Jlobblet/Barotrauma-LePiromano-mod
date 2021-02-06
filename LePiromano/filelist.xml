@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="LePiromano" path="Mods/LePiromano/filelist.xml" corepackage="false" gameversion="0.11.0.10">
+    <Text file="Mods/LePiromano/LePiromanoVanilla.xml" />
+    <NPCConversations file="Mods/LePiromano/NpcConversations_LePiromano.xml" />
+    <Character file="Mods/LePiromano/Characters/Human/Human.xml" />
+</contentpackage>

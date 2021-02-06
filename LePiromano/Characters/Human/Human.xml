@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Diff file="Content/Characters/Human/Human.xml" override="root">
+    <replace sel="//name/@firstname">Mods/LePiromano/Characters/Human/LePiromano.txt</replace>
+    <replace sel="//name/@lastname">Mods/LePiromano/Characters/Human/Empty.txt</replace>
+    <!--<replace sel="//ragdolls/@folder">Content/Characters/Human/Ragdolls</replace>
+    <replace sel="//animations/@folder">Content/Characters/Human/animations</replace>-->
+</Diff>
